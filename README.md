@@ -37,3 +37,7 @@ add Lambda Web Adapter layer to the function and configure wrapper script.
 4. Set the Timeout of the lambda function to a suitable duration
 
 it is done!
+
+reference links             
+- [aws LWA repo](https://github.com/awslabs/aws-lambda-web-adapter/tree/main/examples/fastapi-response-streaming-zip)         
+- [installing python libraries](https://docs.aws.amazon.com/lambda/latest/dg/python-package.html#python-package-native-libraries)
